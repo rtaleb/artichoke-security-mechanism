@@ -17,6 +17,7 @@ We also used [Artichoke-x](https://github.com/liflab/artichoke-x). This helps ma
 
 To run this code:
 **First**, please download Intellij [IDEA software](https://www.jetbrains.com/idea/download)
+
 **Second**, In the code, in the class called ArtichokeSwingController.java, you find a global variable "path" in which the path to the code should be written. To get the path, just right click on the ca.uqac.lif.artichoke package, then click copy path. Please write the path in the path variable in the format as shown the picture below.
 
 
